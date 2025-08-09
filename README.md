@@ -25,3 +25,11 @@ The notebook includes the following analyses:
 - Matplotlib and Seaborn for static visualizations
 - Altair and Plotly for interactive visualizations
 - Google Colaboratory for running and sharing the notebook
+
+---
+## Key Insights
+- Women and children had significantly higher survival rates than men.
+- First-class passengers had a much better chance of survival compared to lower classes.
+- Higher fares were generally associated with higher survival rates.
+- Passengers who embarked from Cherbourg had better survival outcomes than those from other ports.
+
